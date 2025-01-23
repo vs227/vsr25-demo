@@ -1,3 +1,4 @@
 # vsr25-demo
 My first git repository
-Autor - Vaishnav Shinde
+<br>
+Author - Vaishnav Shinde
